@@ -1,4 +1,4 @@
-# SVETLANA 
+# SVETLANA   ![cv photo](C:\Users\lana\Desktop\RSS\projects\rs_school\rsschool-cv)
 
 # **GAREEVA**
 ***
@@ -10,7 +10,7 @@
 
 # **PROFILE**
 
-Accomplished accountant with over 6 years of experience, 2 years of project managment experience in equipment supply.  Highly organised and detail-oriented. Extremely motivated for career change goal. I am willing to learn new skills and adapt to new job.
+Accomplished accountant with over 6 years of experience, 2 years of project managment experience in equipment supply.    Highly organised and detail-oriented. Extremely motivated for career change goal. I am willing to learn new skills and adapt to new job.
 
 # **EXPERIENCE**
 
