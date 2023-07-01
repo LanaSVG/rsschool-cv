@@ -17,15 +17,15 @@ Accomplished accountant with over 6 years of experience, 2 years of project mana
 Accountant *2018 - Present*  
 Private practice / St.Petersburg, Russia
 
-Chief operating manager *2017-2020*
+Chief operating manager *2017-2020*  
 ALMA / St.Petersburg, Russia
 
-Accountant *2016-2017*
+Accountant *2016-2017*  
 Blitz Audit / St.Petersburg, Russia
 
 # **EDUCATION**
 
-Bachelor of Economics
+Bachelor of Economics  
 Polytechnic University St.Petersburg
 
 # **LANGUAGE**
