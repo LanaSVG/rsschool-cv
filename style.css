@@ -1,0 +1,8 @@
+<style>
+:root {
+    --main-color: #000000;
+}
+.p {
+    color: var(--main-color);
+}
+</style>
