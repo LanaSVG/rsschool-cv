@@ -1,8 +1,28 @@
-<style>
 :root {
     --main-color: #000000;
 }
 .p {
     color: var(--main-color);
 }
-</style>
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .list-cv {
+    background-color: #000000;
+  }
+  body {
+    margin: 50px 400px;
+    font: normal 24px Arial, sans-serif;
+    background-color: #f0ead6;
+    border: 2px solid #000000;
+    padding: 30px;
+  }
+
+.name {
+    background-color: #1E3522;
+    color: #ffffff;
+    width: 300px;
+}
