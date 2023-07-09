@@ -9,10 +9,13 @@ body {
   padding: 30px;
   color: #ffffff;
 }
+p {
+  line-height: 36px;
+}
 .h-orange {
   color: #E2582C;
 }
-h3 {
+h2 {
   color: #E2582C;
 }
 a {
@@ -67,9 +70,18 @@ thead th:nth-child(8) {
   float: right;
   margin: 0 0 10px 10px;
 }
+#menu8 {
+  position: absolute;
+  width: 100px;
+  top: 1300px;
+  right: 1000px;
+}
 .menu8 {
   position: absolute;
   width: 100px;
-  top: 1200px;
+  top: 1400px;
   right: 1000px;
+}
+li {
+  line-height: 36px;
 }
