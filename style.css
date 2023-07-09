@@ -11,7 +11,10 @@ body {
 }
 .h-orange {
   color: #E2582C;
-} 
+}
+h3 {
+  color: #E2582C;
+}
 a {
   color: #ffffff;
 }
@@ -22,10 +25,16 @@ a:active {
   color: bisque;
 }
 table {
-  border: 5px solid #2e4338;
+  border: 5px solid;
   table-layout: fixed;
   border-collapse: collapse;
   color: #ffffff;
+}
+.menu {
+  border-color: #2e4338;
+}
+#menu1 {
+  text-align: center;
 }
 th, td {
   padding: 20px;
@@ -57,4 +66,10 @@ thead th:nth-child(8) {
 .img {
   float: right;
   margin: 0 0 10px 10px;
+}
+.menu8 {
+  position: absolute;
+  width: 100px;
+  top: 1200px;
+  right: 1000px;
 }
